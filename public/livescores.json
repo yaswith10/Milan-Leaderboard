@@ -1,0 +1,441 @@
+{
+    "LEADERBOARD": [
+        {
+            "team_name": "",
+            "sports_score": "SPORTS",
+            "culty_score": "CULTY",
+            "tech_score": "TECHY",
+            "total_score": "TOTAL"
+        },
+        {
+            "team_name": "ARYABHATTA",
+            "sports_score": "144.7811448",
+            "culty_score": "90.35565524",
+            "tech_score": "10.69137562",
+            "total_score": "245.8281756"
+        },
+        {
+            "team_name": "BHASKARA",
+            "sports_score": "114.2376142",
+            "culty_score": "76.89842999",
+            "tech_score": "23.52102637",
+            "total_score": "214.6570706"
+        },
+        {
+            "team_name": "MAITREYI",
+            "sports_score": "82.61183261",
+            "culty_score": "63.76161487",
+            "tech_score": "15.68068425",
+            "total_score": "162.0541317"
+        },
+        {
+            "team_name": "GARGI",
+            "sports_score": "158.3694084",
+            "culty_score": "162.1275232",
+            "tech_score": "74.12687099",
+            "total_score": "394.6238026"
+        },
+        {
+            "team_name": "CHARAKA",
+            "sports_score": "263.7842126",
+            "culty_score": "94.84139699",
+            "tech_score": "151.1047755",
+            "total_score": "509.7303851"
+        },
+        {
+            "team_name": "SUSRUTA",
+            "sports_score": "88.45696152",
+            "culty_score": "104.1332906",
+            "tech_score": "46.32929437",
+            "total_score": "238.9195465"
+        },
+        {
+            "team_name": "KAUTILYA",
+            "sports_score": "60.6902023",
+            "culty_score": "38.76962512",
+            "tech_score": "181.0406272",
+            "total_score": "280.5004546"
+        },
+        {
+            "team_name": "VYASA",
+            "sports_score": "121.7770726",
+            "culty_score": "25.95322012",
+            "tech_score": "61.29722024",
+            "total_score": "209.027513"
+        },
+        {
+            "team_name": "BRAHMAGUPTA",
+            "sports_score": "119.3970647",
+            "culty_score": "49.02274912",
+            "tech_score": "148.9665004",
+            "total_score": "317.3863141"
+        },
+        {
+            "team_name": "VARAHAMIHIRA",
+            "sports_score": "160.0555335",
+            "culty_score": "78.82089074",
+            "tech_score": "95.50962224",
+            "total_score": "334.3860465"
+        },
+        {
+            "team_name": "RAMANUJA",
+            "sports_score": "133.0821103",
+            "culty_score": "160.2050625",
+            "tech_score": "175.3385602",
+            "total_score": "468.625733"
+        },
+        {
+            "team_name": "KAPILA",
+            "sports_score": "52.75684252",
+            "culty_score": "55.11054149",
+            "tech_score": "16.39344262",
+            "total_score": "124.2608266"
+        }
+    ],
+    "TECHY": [
+        {
+            "team_name": "",
+            "sports_score": "GAME JAM",
+            "culty_score": "ROBO SOCCER",
+            "tech_score": "CAPTURE THE FLAG",
+            "total_score": "HACKATHON"
+        },
+        {
+            "team_name": "ARYABHATTA",
+            "sports_score": "0",
+            "culty_score": "0",
+            "tech_score": "10",
+            "total_score": "0"
+        },
+        {
+            "team_name": "BHASKARA",
+            "sports_score": "0",
+            "culty_score": "10",
+            "tech_score": "10",
+            "total_score": "0"
+        },
+        {
+            "team_name": "MAITREYI",
+            "sports_score": "0",
+            "culty_score": "0",
+            "tech_score": "0",
+            "total_score": "0"
+        },
+        {
+            "team_name": "GARGI",
+            "sports_score": "10",
+            "culty_score": "10",
+            "tech_score": "10",
+            "total_score": "0"
+        },
+        {
+            "team_name": "CHARAKA",
+            "sports_score": "10",
+            "culty_score": "20",
+            "tech_score": "100",
+            "total_score": "10"
+        },
+        {
+            "team_name": "SUSRUTA",
+            "sports_score": "10",
+            "culty_score": "0",
+            "tech_score": "10",
+            "total_score": "0"
+        },
+        {
+            "team_name": "KAUTILYA",
+            "sports_score": "100",
+            "culty_score": "40",
+            "tech_score": "10",
+            "total_score": "100"
+        },
+        {
+            "team_name": "VYASA",
+            "sports_score": "20",
+            "culty_score": "10",
+            "tech_score": "70",
+            "total_score": "20"
+        },
+        {
+            "team_name": "BRAHMAGUPTA",
+            "sports_score": "10",
+            "culty_score": "100",
+            "tech_score": "40",
+            "total_score": "70"
+        },
+        {
+            "team_name": "VARAHAMIHIRA",
+            "sports_score": "40",
+            "culty_score": "0",
+            "tech_score": "20",
+            "total_score": "0"
+        },
+        {
+            "team_name": "RAMANUJA",
+            "sports_score": "70",
+            "culty_score": "70",
+            "tech_score": "10",
+            "total_score": "40"
+        },
+        {
+            "team_name": "KAPILA",
+            "sports_score": "0",
+            "culty_score": "10",
+            "tech_score": "10",
+            "total_score": "0"
+        }
+    ],
+    "CULTY": [
+        {
+            "team_name": "",
+            "sports_score": "SOLO DANCE",
+            "culty_score": "DUO-TRIO DANCE",
+            "tech_score": "GROUP DANCE",
+            "total_score": "PANDORAS BOX OF DRAMA"
+        },
+        {
+            "team_name": "ARYABHATTA",
+            "sports_score": "3",
+            "culty_score": "4",
+            "tech_score": "5",
+            "total_score": "10"
+        },
+        {
+            "team_name": "BHASKARA",
+            "sports_score": "9",
+            "culty_score": "4",
+            "tech_score": "35",
+            "total_score": "10"
+        },
+        {
+            "team_name": "MAITREYI",
+            "sports_score": "30",
+            "culty_score": "28",
+            "tech_score": "5",
+            "total_score": "10"
+        },
+        {
+            "team_name": "GARGI",
+            "sports_score": "21",
+            "culty_score": "48",
+            "tech_score": "40",
+            "total_score": "20"
+        },
+        {
+            "team_name": "CHARAKA",
+            "sports_score": "9",
+            "culty_score": "4",
+            "tech_score": "10",
+            "total_score": "10"
+        },
+        {
+            "team_name": "SUSRUTA",
+            "sports_score": "3",
+            "culty_score": "4",
+            "tech_score": "5",
+            "total_score": "70"
+        },
+        {
+            "team_name": "KAUTILYA",
+            "sports_score": "3",
+            "culty_score": "4",
+            "tech_score": "5",
+            "total_score": "10"
+        },
+        {
+            "team_name": "VYASA",
+            "sports_score": "3",
+            "culty_score": "0",
+            "tech_score": "5",
+            "total_score": "10"
+        },
+        {
+            "team_name": "BRAHMAGUPTA",
+            "sports_score": "3",
+            "culty_score": "4",
+            "tech_score": "5",
+            "total_score": "10"
+        },
+        {
+            "team_name": "VARAHAMIHIRA",
+            "sports_score": "3",
+            "culty_score": "4",
+            "tech_score": "20",
+            "total_score": "40"
+        },
+        {
+            "team_name": "RAMANUJA",
+            "sports_score": "3",
+            "culty_score": "16",
+            "tech_score": "5",
+            "total_score": "100"
+        },
+        {
+            "team_name": "KAPILA",
+            "sports_score": "3",
+            "culty_score": "0",
+            "tech_score": "0",
+            "total_score": "10"
+        }
+    ],
+    "SPORTS_BOYS": [
+        {
+            "team_name": "",
+            "sports_score": "CRICKET",
+            "culty_score": "FOOTBALL",
+            "tech_score": "HOCKEY",
+            "total_score": "VOLLEYBALL"
+        },
+        {
+            "team_name": "CHARAKA",
+            "sports_score": "100",
+            "culty_score": "70",
+            "tech_score": "70",
+            "total_score": "100"
+        },
+        {
+            "team_name": "SUSRUTA",
+            "sports_score": "40",
+            "culty_score": "100",
+            "tech_score": "40",
+            "total_score": "20"
+        },
+        {
+            "team_name": "KAUTILYA",
+            "sports_score": "10",
+            "culty_score": "10",
+            "tech_score": "10",
+            "total_score": "10"
+        },
+        {
+            "team_name": "VYASA",
+            "sports_score": "10",
+            "culty_score": "20",
+            "tech_score": "100",
+            "total_score": "10"
+        },
+        {
+            "team_name": "BRAHMAGUPTA",
+            "sports_score": "20",
+            "culty_score": "10",
+            "tech_score": "20",
+            "total_score": "40"
+        },
+        {
+            "team_name": "VARAHAMIHIRA",
+            "sports_score": "10",
+            "culty_score": "10",
+            "tech_score": "10",
+            "total_score": "70"
+        },
+        {
+            "team_name": "RAMANUJA",
+            "sports_score": "70",
+            "culty_score": "40",
+            "tech_score": "10",
+            "total_score": "10"
+        },
+        {
+            "team_name": "KAPILA",
+            "sports_score": "10",
+            "culty_score": "10",
+            "tech_score": "0",
+            "total_score": "10"
+        },
+        {},
+        {
+            "team_name": "1st",
+            "sports_score": "100",
+            "culty_score": "100",
+            "tech_score": "100",
+            "total_score": "100"
+        },
+        {
+            "team_name": "2nd",
+            "sports_score": "70",
+            "culty_score": "70",
+            "tech_score": "70",
+            "total_score": "70"
+        },
+        {
+            "team_name": "3rd",
+            "sports_score": "40",
+            "culty_score": "40",
+            "tech_score": "40",
+            "total_score": "40"
+        }
+    ],
+    "SPORTS_GIRLS": [
+        {
+            "team_name": "",
+            "sports_score": "CRICKET",
+            "culty_score": "FOOTBALL",
+            "tech_score": "DODGE BALL",
+            "total_score": "VOLLEYBALL"
+        },
+        {
+            "team_name": "ARYABHATTA",
+            "sports_score": "70",
+            "culty_score": "100",
+            "tech_score": "70",
+            "total_score": "70"
+        },
+        {
+            "team_name": "BHASKARA",
+            "sports_score": "40",
+            "culty_score": "0",
+            "tech_score": "40",
+            "total_score": "40"
+        },
+        {
+            "team_name": "MAITREYI",
+            "sports_score": "20",
+            "culty_score": "40",
+            "tech_score": "20",
+            "total_score": "20"
+        },
+        {
+            "team_name": "GARGI",
+            "sports_score": "100",
+            "culty_score": "70",
+            "tech_score": "100",
+            "total_score": "100"
+        },
+        {},
+        {
+            "team_name": "1st",
+            "sports_score": "100",
+            "culty_score": "100",
+            "tech_score": "100",
+            "total_score": "100"
+        },
+        {
+            "team_name": "2nd",
+            "sports_score": "70",
+            "culty_score": "70",
+            "tech_score": "70",
+            "total_score": "70"
+        },
+        {
+            "team_name": "3rd",
+            "sports_score": "40",
+            "culty_score": "40",
+            "tech_score": "40",
+            "total_score": "40"
+        },
+        {
+            "team_name": "4th",
+            "sports_score": "20",
+            "culty_score": "20",
+            "tech_score": "20",
+            "total_score": "20"
+        },
+        {
+            "team_name": "5th&below",
+            "sports_score": "10",
+            "culty_score": "10",
+            "tech_score": "10",
+            "total_score": "10"
+        }
+    ]
+}
